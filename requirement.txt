@@ -1,8 +1,11 @@
-ResilienceAI-Multi-Hazard-Impact-Response-Optimization-System
-
-To run this system we need:
-1. hazard data as tiff file
-2. infrastructure data as shape file
-3. community data as tiff file
-4. sensitivity data as tiff file
-4. adaptive capacity data as tiff file
+streamlit
+geopandas
+rasterio
+numpy
+pandas
+folium
+streamlit-folium
+shapely
+fiona
+pyproj
+rtree
